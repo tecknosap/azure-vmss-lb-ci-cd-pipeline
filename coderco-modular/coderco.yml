@@ -5,9 +5,9 @@ pool:
   vmImage: ubuntu-latest
 
 variables:
-  resource-rg: 'az-01-rg'
-  stant: 'stro90123wss'
-  container: 'tfstate'
+  resource-rg: 'your rg'
+  stant: 'storage account'
+  container: 'container'
   key: 'terraform.tfstate'
 
 stages:
