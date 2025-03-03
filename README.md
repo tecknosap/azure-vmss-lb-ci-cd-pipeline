@@ -52,7 +52,8 @@ To use or contribute to this project, follow the steps below:
 - **Azure CLI** for managing resources locally
 
 ### Clone this Repository
-git clone https://github.com/your-username/azure-cloud-infrastructure.git
+git clone https://github.com/your-username/azure-vmss-lb-ci-cd-pipeline.git
+
 cd azure-cloud-infrastructure
 
 ## Terraform Setup
@@ -70,7 +71,7 @@ Configure pipeline variables for environment-specific settings.
 ## Contributing
 Feel free to fork this repository and submit issues or pull requests for improvements.
 
-Issues
+## Issues
 If you encounter any bugs or have suggestions for improvements, please open an issue on GitHub.
 
 ## License
